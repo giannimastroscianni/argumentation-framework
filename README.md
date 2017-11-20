@@ -1,4 +1,7 @@
 ## Argumentation Framework
+
+Master Degree in Computer Science, University of Bari. Case study for Artificial Intelligence course. I worked on this project with my classmate (and dear friend) [Giuseppe (Peppo) Lorusso](https://www.linkedin.com/in/giuseppe-lorusso/).
+
 #### Abstract Argumentation Solving Integrity Constraints
 
 Prolog version used: YAP 6.2.2
